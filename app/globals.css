@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+body{
+  max-width: 1820px;
+  margin: 0 auto;
+}
+
+.coruselCard{
+  position: relative;
+  overflow: hidden;
+
+}
+
+.object{
+  object-position: top;
+}
